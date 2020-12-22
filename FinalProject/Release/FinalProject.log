@@ -1,0 +1,2 @@
+﻿  FinalProject.cpp
+C:\Users\kyn05\source\repos\OpenGLSolutions\FinalProject\FinalProject.cpp(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL\glaux.h': No such file or directory
